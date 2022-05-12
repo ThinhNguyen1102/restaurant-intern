@@ -1,0 +1,14 @@
+.item-box {
+  overflow: hidden;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.image img {
+  border-radius: 8px;
+  max-height: 259px;
+}
